@@ -1,0 +1,1 @@
+﻿Synthetic executive merger strategy used for forensic EFS validation.

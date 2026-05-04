@@ -1,0 +1,76 @@
+﻿Real EFS dataset generated on: 2026-04-22T16:50:41
+Host user certificate info:
+
+EFS certificate thumbprint for computer DESKTOP-KRCN3RJ:
+
+  924C 67DC 16CA 5246 8288 BE8E 55F5 32BB BB98 91CA 
+
+
+
+Cipher verification output:
+=== Encrypting: D:\8th SEMESTER\DF\PROJECT\demo\RealEfsDataset\Users\\employee1\\Documents\\EfsConfirmed\executive_merger_strategy.txt ===
+
+ Encrypting files in D:\8th SEMESTER\DF\PROJECT\demo\RealEfsDataset\Users\employee1\Documents\EfsConfirmed\
+
+executive_merger_strategy.txt [OK]
+
+1 file(s) [or directorie(s)] within 1 directorie(s) were encrypted.
+
+Converting files from plaintext to ciphertext may leave sections of old
+plaintext on the disk volume(s). It is recommended to use command
+CIPHER /W:directory to clean up the disk after all converting is done.
+
+=== Inspecting: D:\8th SEMESTER\DF\PROJECT\demo\RealEfsDataset\Users\\employee1\\Documents\\EfsConfirmed\executive_merger_strategy.txt ===
+
+ Listing D:\8th SEMESTER\DF\PROJECT\demo\RealEfsDataset\Users\employee1\Documents\EfsConfirmed\
+ New files added to this directory will not be encrypted.
+
+E executive_merger_strategy.txt
+  Compatibility Level:
+    Windows XP/Server 2003
+
+  Users who can decrypt:
+    DESKTOP-KRCN3RJ\Ibrahim Khan [Ibrahim Khan(Ibrahim Khan@DESKTOP-KRCN3RJ)]
+    Certificate thumbprint: 924C 67DC 16CA 5246 8288 BE8E 55F5 32BB BB98 91CA 
+
+  No recovery certificate found.
+
+  Key Information:
+    Algorithm: AES
+    Key Length: 256
+    Key Entropy: 256
+
+
+=== Encrypting: D:\8th SEMESTER\DF\PROJECT\demo\RealEfsDataset\Users\\employee1\\Documents\\EfsConfirmed\payroll_adjustments_2026.csv ===
+
+ Encrypting files in D:\8th SEMESTER\DF\PROJECT\demo\RealEfsDataset\Users\employee1\Documents\EfsConfirmed\
+
+payroll_adjustments_2026.csv [OK]
+
+1 file(s) [or directorie(s)] within 1 directorie(s) were encrypted.
+
+Converting files from plaintext to ciphertext may leave sections of old
+plaintext on the disk volume(s). It is recommended to use command
+CIPHER /W:directory to clean up the disk after all converting is done.
+
+=== Inspecting: D:\8th SEMESTER\DF\PROJECT\demo\RealEfsDataset\Users\\employee1\\Documents\\EfsConfirmed\payroll_adjustments_2026.csv ===
+
+ Listing D:\8th SEMESTER\DF\PROJECT\demo\RealEfsDataset\Users\employee1\Documents\EfsConfirmed\
+ New files added to this directory will not be encrypted.
+
+E payroll_adjustments_2026.csv
+  Compatibility Level:
+    Windows XP/Server 2003
+
+  Users who can decrypt:
+    DESKTOP-KRCN3RJ\Ibrahim Khan [Ibrahim Khan(Ibrahim Khan@DESKTOP-KRCN3RJ)]
+    Certificate thumbprint: 924C 67DC 16CA 5246 8288 BE8E 55F5 32BB BB98 91CA 
+
+  No recovery certificate found.
+
+  Key Information:
+    Algorithm: AES
+    Key Length: 256
+    Key Entropy: 256
+
+
