@@ -1,0 +1,44 @@
+
+        <html>
+        <head>
+            <title>EFS Key Finder Report</title>
+            <style>
+                body { font-family: Segoe UI, sans-serif; background: #0f172a; color: #e2e8f0; margin: 2rem; }
+                h1, h2 { color: #7dd3fc; }
+                .card { background: #111827; padding: 1rem 1.2rem; border-radius: 12px; margin-bottom: 1rem; }
+                .summary-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+                .summary-item { background: #0b1220; padding: 0.8rem; border-radius: 10px; }
+                ul { margin: 0.5rem 0 0; padding-left: 1.2rem; }
+                p { margin: 0.35rem 0; }
+            </style>
+        </head>
+        <body>
+            <h1>EFS Key Finder / EFS Key Extractor</h1>
+            <div class="card">
+                <h2>Case Overview</h2>
+                <p><strong>Case ID:</strong> CASE-WEB-001</p>
+                <p><strong>Investigator:</strong> Ibrahim Khan</p>
+                <p><strong>Source:</strong> D:\8th SEMESTER\DF\PROJECT\demo\RealEfsDataset</p>
+                <p><strong>Mode:</strong> live</p>
+            </div>
+            <div class="card">
+                <h2>Executive Summary</h2>
+                <div class="summary-grid">
+                    <div class="summary-item"><strong>Total Findings</strong><p>2</p></div>
+                    <div class="summary-item"><strong>Confirmed EFS</strong><p>2</p></div>
+                    <div class="summary-item"><strong>Certificates</strong><p>0</p></div>
+                    <div class="summary-item"><strong>Registry Artifacts</strong><p>1</p></div>
+                    <div class="summary-item"><strong>Timeline Entries</strong><p>3</p></div>
+                    <div class="summary-item"><strong>Alerts</strong><p>2</p></div>
+                </div>
+            </div>
+            <div class="card"><h2>Exact Key Thumbprints</h2><ul><li>924C 67DC 16CA 5246 8288 BE8E 55F5 32BB BB98 91CA</li><li>924C 67DC 16CA 5246 8288 BE8E 55F5 32BB BB98 91CA</li></ul></div>
+            <div class="card"><h2>Top File Findings</h2><ul><li>CONFIRMED | D:\8th SEMESTER\DF\PROJECT\demo\RealEfsDataset\Users\employee1\Documents\EfsConfirmed\executive_merger_strategy.txt | Thumbprints: 924C 67DC 16CA 5246 8288 BE8E 55F5 32BB BB98 91CA</li><li>CONFIRMED | D:\8th SEMESTER\DF\PROJECT\demo\RealEfsDataset\Users\employee1\Documents\EfsConfirmed\payroll_adjustments_2026.csv | Thumbprints: 924C 67DC 16CA 5246 8288 BE8E 55F5 32BB BB98 91CA</li></ul></div>
+            <div class="card"><h2>Certificate Artifacts</h2><p>No certificate artifacts recorded.</p></div>
+            <div class="card"><h2>Registry Evidence</h2><ul><li>Software\\Microsoft\\Windows NT\\CurrentVersion\\EFS | Placeholder</li></ul></div>
+            <div class="card"><h2>User Artifact Roots</h2><p>No user artifact roots recorded.</p></div>
+            <div class="card"><h2>Timeline Highlights</h2><ul><li>2026-04-22T16:50:41.638764 | encrypted_file | Potential EFS file: D:\8th SEMESTER\DF\PROJECT\demo\RealEfsDataset\Users\employee1\Documents\EfsConfirmed\executive_merger_strategy.txt</li><li>2026-04-22T16:50:41.638764 | encrypted_file | Potential EFS file: D:\8th SEMESTER\DF\PROJECT\demo\RealEfsDataset\Users\employee1\Documents\EfsConfirmed\payroll_adjustments_2026.csv</li><li>2026-05-04T04:03:18.717997 | registry | Registry value Placeholder at Software\\Microsoft\\Windows NT\\CurrentVersion\\EFS</li></ul></div>
+            <div class="card"><h2>Alerts</h2><ul><li>Sensitive business data candidate detected: D:\8th SEMESTER\DF\PROJECT\demo\RealEfsDataset\Users\employee1\Documents\EfsConfirmed\executive_merger_strategy.txt</li><li>Sensitive business data candidate detected: D:\8th SEMESTER\DF\PROJECT\demo\RealEfsDataset\Users\employee1\Documents\EfsConfirmed\payroll_adjustments_2026.csv</li></ul></div>
+        </body>
+        </html>
+        

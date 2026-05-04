@@ -1,0 +1,4 @@
+timestamp,artifact_type,description,source
+2026-04-22T16:50:41.638764,encrypted_file,Potential EFS file: demo\RealEfsDataset\Users\employee1\Documents\EfsConfirmed\executive_merger_strategy.txt,demo\RealEfsDataset
+2026-04-22T16:50:41.638764,encrypted_file,Potential EFS file: demo\RealEfsDataset\Users\employee1\Documents\EfsConfirmed\payroll_adjustments_2026.csv,demo\RealEfsDataset
+2026-04-26T17:59:58.209732,registry,Registry value Placeholder at Software\\Microsoft\\Windows NT\\CurrentVersion\\EFS,live_registry_placeholder

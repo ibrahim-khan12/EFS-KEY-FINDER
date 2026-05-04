@@ -1,0 +1,61 @@
+
+        <html>
+        <head>
+            <title>EFS Key Finder Report</title>
+            <style>
+                body { font-family: Segoe UI, sans-serif; background: #0f172a; color: #e2e8f0; margin: 2rem; }
+                h1, h2 { color: #7dd3fc; }
+                .card { background: #111827; padding: 1rem; border-radius: 12px; margin-bottom: 1rem; }
+                pre { white-space: pre-wrap; word-wrap: break-word; }
+            </style>
+        </head>
+        <body>
+            <h1>EFS Key Finder / EFS Key Extractor</h1>
+            <div class="card"><h2>Case Metadata</h2><pre>{
+  "case_id": "CASE-EXACT-KEYS",
+  "investigator": "Ibrahim Khan",
+  "source": ".\\demo\\RealEfsDataset",
+  "mode": "live",
+  "collected_at": "2026-04-26T17:59:58.209732+00:00"
+}</pre></div>
+            <div class="card"><h2>Brief Summary</h2><pre>{
+  "total_findings": 2,
+  "confirmed_efs": 2,
+  "certificate_artifacts": 0,
+  "alerts": 2
+}</pre></div>
+            <div class="card"><h2>Exact Key Thumbprints</h2><pre>[
+  "924C 67DC 16CA 5246 8288 BE8E 55F5 32BB BB98 91CA",
+  "924C 67DC 16CA 5246 8288 BE8E 55F5 32BB BB98 91CA"
+]</pre></div>
+            <div class="card"><h2>Top File Findings</h2><pre>[
+  {
+    "path": "demo\\RealEfsDataset\\Users\\employee1\\Documents\\EfsConfirmed\\executive_merger_strategy.txt",
+    "size": 83,
+    "created": "2026-04-22T16:50:41.638764",
+    "modified": "2026-04-22T16:50:41.638764",
+    "efs_status": "confirmed",
+    "efs_detected_by": "cipher_confirmation, windows_encrypted_attribute",
+    "algorithm": "",
+    "key_length": "",
+    "decrypt_users": "DESKTOP-KRCN3RJ\\Ibrahim Khan [Ibrahim Khan(Ibrahim Khan@DESKTOP-KRCN3RJ)]",
+    "decrypt_thumbprints": "924C 67DC 16CA 5246 8288 BE8E 55F5 32BB BB98 91CA",
+    "source": "demo\\RealEfsDataset"
+  },
+  {
+    "path": "demo\\RealEfsDataset\\Users\\employee1\\Documents\\EfsConfirmed\\payroll_adjustments_2026.csv",
+    "size": 47,
+    "created": "2026-04-22T16:50:41.638764",
+    "modified": "2026-04-22T16:50:41.638764",
+    "efs_status": "confirmed",
+    "efs_detected_by": "cipher_confirmation, windows_encrypted_attribute",
+    "algorithm": "",
+    "key_length": "",
+    "decrypt_users": "DESKTOP-KRCN3RJ\\Ibrahim Khan [Ibrahim Khan(Ibrahim Khan@DESKTOP-KRCN3RJ)]",
+    "decrypt_thumbprints": "924C 67DC 16CA 5246 8288 BE8E 55F5 32BB BB98 91CA",
+    "source": "demo\\RealEfsDataset"
+  }
+]</pre></div>
+        </body>
+        </html>
+        

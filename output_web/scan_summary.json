@@ -1,0 +1,1535 @@
+{
+  "case": {
+    "case_id": "CASE-WEB-001",
+    "investigator": "Ibrahim Khan",
+    "source": "D:\\8th SEMESTER\\DF\\PROJECT\\demo\\RealEfsDataset",
+    "mode": "live",
+    "collected_at": "2026-05-04T04:03:18.717997+00:00"
+  },
+  "evidence_integrity": {
+    "sha256": null,
+    "read_only": true,
+    "mountless": false
+  },
+  "live_context": {
+    "hostname": "DESKTOP-KRCN3RJ",
+    "os_version": "Windows-11-10.0.22631-SP0",
+    "active_users": [
+      "Ibrahim Khan"
+    ],
+    "processes": [
+      {
+        "pid": 0,
+        "name": "System Idle Process",
+        "create_time": 0.0,
+        "username": "NT AUTHORITY\\SYSTEM"
+      },
+      {
+        "pid": 4,
+        "name": "System",
+        "create_time": 0.0,
+        "username": "NT AUTHORITY\\SYSTEM"
+      },
+      {
+        "pid": 8,
+        "name": "wininit.exe",
+        "create_time": 1777806696.8767307,
+        "username": null
+      },
+      {
+        "pid": 108,
+        "name": "",
+        "create_time": 1777806687.540169,
+        "username": null
+      },
+      {
+        "pid": 152,
+        "name": "Registry",
+        "create_time": 1777806687.570473,
+        "username": null
+      },
+      {
+        "pid": 576,
+        "name": "smss.exe",
+        "create_time": 1777806690.0983214,
+        "username": null
+      },
+      {
+        "pid": 824,
+        "name": "csrss.exe",
+        "create_time": 1777806696.881337,
+        "username": null
+      },
+      {
+        "pid": 924,
+        "name": "csrss.exe",
+        "create_time": 1777806696.1275456,
+        "username": null
+      },
+      {
+        "pid": 928,
+        "name": "LsaIso.exe",
+        "create_time": 1777806697.0452611,
+        "username": null
+      },
+      {
+        "pid": 952,
+        "name": "services.exe",
+        "create_time": 1777806696.9852865,
+        "username": null
+      },
+      {
+        "pid": 1040,
+        "name": "lsass.exe",
+        "create_time": 1777806697.0519338,
+        "username": null
+      },
+      {
+        "pid": 1164,
+        "name": "svchost.exe",
+        "create_time": 1777806697.5839448,
+        "username": null
+      },
+      {
+        "pid": 1196,
+        "name": "fontdrvhost.exe",
+        "create_time": 1777806697.6050763,
+        "username": null
+      },
+      {
+        "pid": 1204,
+        "name": "WUDFHost.exe",
+        "create_time": 1777806697.6072624,
+        "username": null
+      },
+      {
+        "pid": 1336,
+        "name": "svchost.exe",
+        "create_time": 1777806697.65552,
+        "username": null
+      },
+      {
+        "pid": 1344,
+        "name": "winlogon.exe",
+        "create_time": 1777806697.6572468,
+        "username": null
+      },
+      {
+        "pid": 1428,
+        "name": "svchost.exe",
+        "create_time": 1777806697.6950405,
+        "username": null
+      },
+      {
+        "pid": 1444,
+        "name": "fontdrvhost.exe",
+        "create_time": 1777806697.700342,
+        "username": null
+      },
+      {
+        "pid": 1528,
+        "name": "WUDFHost.exe",
+        "create_time": 1777806697.8005643,
+        "username": null
+      },
+      {
+        "pid": 1596,
+        "name": "svchost.exe",
+        "create_time": 1777806697.8665833,
+        "username": null
+      },
+      {
+        "pid": 1604,
+        "name": "svchost.exe",
+        "create_time": 1777806697.8674867,
+        "username": null
+      },
+      {
+        "pid": 1612,
+        "name": "svchost.exe",
+        "create_time": 1777806697.8698492,
+        "username": null
+      },
+      {
+        "pid": 1680,
+        "name": "svchost.exe",
+        "create_time": 1777806697.8962228,
+        "username": null
+      },
+      {
+        "pid": 1688,
+        "name": "svchost.exe",
+        "create_time": 1777806697.896636,
+        "username": null
+      },
+      {
+        "pid": 1744,
+        "name": "svchost.exe",
+        "create_time": 1777806697.9153757,
+        "username": null
+      },
+      {
+        "pid": 1752,
+        "name": "IntelCpHDCPSvc.exe",
+        "create_time": 1777806697.9173973,
+        "username": null
+      },
+      {
+        "pid": 1768,
+        "name": "svchost.exe",
+        "create_time": 1777806697.9191492,
+        "username": null
+      },
+      {
+        "pid": 1836,
+        "name": "svchost.exe",
+        "create_time": 1777806697.9263713,
+        "username": null
+      },
+      {
+        "pid": 1904,
+        "name": "svchost.exe",
+        "create_time": 1777806697.9372723,
+        "username": null
+      },
+      {
+        "pid": 1912,
+        "name": "svchost.exe",
+        "create_time": 1777806697.9378304,
+        "username": null
+      },
+      {
+        "pid": 2016,
+        "name": "dwm.exe",
+        "create_time": 1777806697.954661,
+        "username": null
+      },
+      {
+        "pid": 2032,
+        "name": "IntelCpHeciSvc.exe",
+        "create_time": 1777806697.9573305,
+        "username": null
+      },
+      {
+        "pid": 2044,
+        "name": "svchost.exe",
+        "create_time": 1777806697.95743,
+        "username": null
+      },
+      {
+        "pid": 2136,
+        "name": "svchost.exe",
+        "create_time": 1777806822.7990873,
+        "username": null
+      },
+      {
+        "pid": 2168,
+        "name": "svchost.exe",
+        "create_time": 1777806697.9940696,
+        "username": null
+      },
+      {
+        "pid": 2272,
+        "name": "svchost.exe",
+        "create_time": 1777806698.0091507,
+        "username": null
+      },
+      {
+        "pid": 2320,
+        "name": "Codex.exe",
+        "create_time": 1777867022.8805845,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 2352,
+        "name": "TrustedInstaller.exe",
+        "create_time": 1777867375.8787916,
+        "username": null
+      },
+      {
+        "pid": 2396,
+        "name": "svchost.exe",
+        "create_time": 1777806698.0394368,
+        "username": null
+      },
+      {
+        "pid": 2416,
+        "name": "svchost.exe",
+        "create_time": 1777806698.0438013,
+        "username": null
+      },
+      {
+        "pid": 2452,
+        "name": "svchost.exe",
+        "create_time": 1777806698.2207937,
+        "username": null
+      },
+      {
+        "pid": 2460,
+        "name": "svchost.exe",
+        "create_time": 1777806698.0528615,
+        "username": null
+      },
+      {
+        "pid": 2612,
+        "name": "svchost.exe",
+        "create_time": 1777806698.0843678,
+        "username": null
+      },
+      {
+        "pid": 2640,
+        "name": "vmms.exe",
+        "create_time": 1777806698.0865188,
+        "username": null
+      },
+      {
+        "pid": 2648,
+        "name": "cmd.exe",
+        "create_time": 1777867088.893859,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 2652,
+        "name": "svchost.exe",
+        "create_time": 1777806698.0895529,
+        "username": null
+      },
+      {
+        "pid": 2756,
+        "name": "svchost.exe",
+        "create_time": 1777806698.1166427,
+        "username": null
+      },
+      {
+        "pid": 3020,
+        "name": "svchost.exe",
+        "create_time": 1777806698.165731,
+        "username": null
+      },
+      {
+        "pid": 3060,
+        "name": "NVDisplay.Container.exe",
+        "create_time": 1777806698.1792524,
+        "username": null
+      },
+      {
+        "pid": 3068,
+        "name": "svchost.exe",
+        "create_time": 1777806698.179954,
+        "username": null
+      },
+      {
+        "pid": 3104,
+        "name": "svchost.exe",
+        "create_time": 1777806698.2280734,
+        "username": null
+      },
+      {
+        "pid": 3112,
+        "name": "svchost.exe",
+        "create_time": 1777806698.2289608,
+        "username": null
+      },
+      {
+        "pid": 3184,
+        "name": "svchost.exe",
+        "create_time": 1777806698.2416153,
+        "username": null
+      },
+      {
+        "pid": 3196,
+        "name": "svchost.exe",
+        "create_time": 1777806698.24478,
+        "username": null
+      },
+      {
+        "pid": 3204,
+        "name": "svchost.exe",
+        "create_time": 1777806698.2456138,
+        "username": null
+      },
+      {
+        "pid": 3212,
+        "name": "svchost.exe",
+        "create_time": 1777806823.4866707,
+        "username": null
+      },
+      {
+        "pid": 3284,
+        "name": "svchost.exe",
+        "create_time": 1777806698.258461,
+        "username": null
+      },
+      {
+        "pid": 3304,
+        "name": "svchost.exe",
+        "create_time": 1777806698.263887,
+        "username": null
+      },
+      {
+        "pid": 3388,
+        "name": "MemCompression",
+        "create_time": 1777806698.2763011,
+        "username": null
+      },
+      {
+        "pid": 3484,
+        "name": "svchost.exe",
+        "create_time": 1777806698.3636515,
+        "username": null
+      },
+      {
+        "pid": 3532,
+        "name": "svchost.exe",
+        "create_time": 1777806698.3881395,
+        "username": null
+      },
+      {
+        "pid": 3596,
+        "name": "igfxCUIService.exe",
+        "create_time": 1777806698.4159653,
+        "username": null
+      },
+      {
+        "pid": 3628,
+        "name": "svchost.exe",
+        "create_time": 1777806698.4399252,
+        "username": null
+      },
+      {
+        "pid": 3636,
+        "name": "svchost.exe",
+        "create_time": 1777806698.4415896,
+        "username": null
+      },
+      {
+        "pid": 3652,
+        "name": "svchost.exe",
+        "create_time": 1777867064.8590524,
+        "username": null
+      },
+      {
+        "pid": 3764,
+        "name": "svchost.exe",
+        "create_time": 1777806698.6070766,
+        "username": null
+      },
+      {
+        "pid": 3896,
+        "name": "vmcompute.exe",
+        "create_time": 1777806698.749929,
+        "username": null
+      },
+      {
+        "pid": 3904,
+        "name": "SystemSettings.exe",
+        "create_time": 1777806929.317927,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 3912,
+        "name": "ApplicationFrameHost.exe",
+        "create_time": 1777806929.3183057,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 3984,
+        "name": "svchost.exe",
+        "create_time": 1777806698.8475258,
+        "username": null
+      },
+      {
+        "pid": 4012,
+        "name": "svchost.exe",
+        "create_time": 1777806698.8653717,
+        "username": null
+      },
+      {
+        "pid": 4108,
+        "name": "svchost.exe",
+        "create_time": 1777867013.0087605,
+        "username": null
+      },
+      {
+        "pid": 4148,
+        "name": "RtkAudioService64.exe",
+        "create_time": 1777806698.9527998,
+        "username": null
+      },
+      {
+        "pid": 4168,
+        "name": "svchost.exe",
+        "create_time": 1777806769.9100556,
+        "username": null
+      },
+      {
+        "pid": 4244,
+        "name": "svchost.exe",
+        "create_time": 1777806699.0124922,
+        "username": null
+      },
+      {
+        "pid": 4252,
+        "name": "svchost.exe",
+        "create_time": 1777806699.0146444,
+        "username": null
+      },
+      {
+        "pid": 4308,
+        "name": "svchost.exe",
+        "create_time": 1777806930.633997,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 4488,
+        "name": "svchost.exe",
+        "create_time": 1777806930.6562624,
+        "username": null
+      },
+      {
+        "pid": 4504,
+        "name": "svchost.exe",
+        "create_time": 1777806699.105794,
+        "username": null
+      },
+      {
+        "pid": 4512,
+        "name": "NVDisplay.Container.exe",
+        "create_time": 1777806699.107716,
+        "username": null
+      },
+      {
+        "pid": 4568,
+        "name": "svchost.exe",
+        "create_time": 1777806699.1274288,
+        "username": null
+      },
+      {
+        "pid": 4612,
+        "name": "scheduler.exe",
+        "create_time": 1777806699.1543052,
+        "username": null
+      },
+      {
+        "pid": 4960,
+        "name": "wlanext.exe",
+        "create_time": 1777806699.403509,
+        "username": null
+      },
+      {
+        "pid": 4980,
+        "name": "conhost.exe",
+        "create_time": 1777806699.408794,
+        "username": null
+      },
+      {
+        "pid": 4996,
+        "name": "spoolsv.exe",
+        "create_time": 1777806699.4713964,
+        "username": null
+      },
+      {
+        "pid": 5020,
+        "name": "ShellExperienceHost.exe",
+        "create_time": 1777807009.333558,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 5028,
+        "name": "WmiPrvSE.exe",
+        "create_time": 1777806699.433662,
+        "username": null
+      },
+      {
+        "pid": 5080,
+        "name": "RAVBg64.exe",
+        "create_time": 1777806699.4566553,
+        "username": null
+      },
+      {
+        "pid": 5104,
+        "name": "RAVBg64.exe",
+        "create_time": 1777806699.4678268,
+        "username": null
+      },
+      {
+        "pid": 5128,
+        "name": "svchost.exe",
+        "create_time": 1777867361.6564963,
+        "username": null
+      },
+      {
+        "pid": 5264,
+        "name": "svchost.exe",
+        "create_time": 1777806699.5623145,
+        "username": null
+      },
+      {
+        "pid": 5400,
+        "name": "wslservice.exe",
+        "create_time": 1777806699.953302,
+        "username": null
+      },
+      {
+        "pid": 5420,
+        "name": "AnyDesk.exe",
+        "create_time": 1777806699.6693397,
+        "username": null
+      },
+      {
+        "pid": 5428,
+        "name": "AppleMobileDeviceService.exe",
+        "create_time": 1777806699.6739745,
+        "username": null
+      },
+      {
+        "pid": 5436,
+        "name": "HidMonitorSvc.exe",
+        "create_time": 1777806699.6753917,
+        "username": null
+      },
+      {
+        "pid": 5444,
+        "name": "svchost.exe",
+        "create_time": 1777806699.6784265,
+        "username": null
+      },
+      {
+        "pid": 5452,
+        "name": "svchost.exe",
+        "create_time": 1777806699.6793592,
+        "username": null
+      },
+      {
+        "pid": 5460,
+        "name": "mDNSResponder.exe",
+        "create_time": 1777806699.6800344,
+        "username": null
+      },
+      {
+        "pid": 5504,
+        "name": "svchost.exe",
+        "create_time": 1777806699.6942968,
+        "username": null
+      },
+      {
+        "pid": 5512,
+        "name": "GameInputRedistService.exe",
+        "create_time": 1777806699.6998107,
+        "username": null
+      },
+      {
+        "pid": 5524,
+        "name": "chrome.exe",
+        "create_time": 1777867119.9483795,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 5588,
+        "name": "unsecapp.exe",
+        "create_time": 1777806699.7433472,
+        "username": null
+      },
+      {
+        "pid": 5608,
+        "name": "OneApp.IGCC.WinService.exe",
+        "create_time": 1777806699.746389,
+        "username": null
+      },
+      {
+        "pid": 5640,
+        "name": "svchost.exe",
+        "create_time": 1777806699.75369,
+        "username": null
+      },
+      {
+        "pid": 5664,
+        "name": "esif_uf.exe",
+        "create_time": 1777806699.7620504,
+        "username": null
+      },
+      {
+        "pid": 5696,
+        "name": "LMS.exe",
+        "create_time": 1777806699.768322,
+        "username": null
+      },
+      {
+        "pid": 5720,
+        "name": "MpDefenderCoreService.exe",
+        "create_time": 1777806699.7756,
+        "username": null
+      },
+      {
+        "pid": 5728,
+        "name": "nvcontainer.exe",
+        "create_time": 1777806699.7763643,
+        "username": null
+      },
+      {
+        "pid": 5772,
+        "name": "svchost.exe",
+        "create_time": 1777806699.7893405,
+        "username": null
+      },
+      {
+        "pid": 5840,
+        "name": "svchost.exe",
+        "create_time": 1777806699.810866,
+        "username": null
+      },
+      {
+        "pid": 5848,
+        "name": "vmware-authd.exe",
+        "create_time": 1777806699.8109708,
+        "username": null
+      },
+      {
+        "pid": 5856,
+        "name": "svchost.exe",
+        "create_time": 1777806699.812506,
+        "username": null
+      },
+      {
+        "pid": 5884,
+        "name": "vmware-usbarbitrator64.exe",
+        "create_time": 1777806699.8234215,
+        "username": null
+      },
+      {
+        "pid": 5892,
+        "name": "vmnat.exe",
+        "create_time": 1777806699.8250487,
+        "username": null
+      },
+      {
+        "pid": 5904,
+        "name": "urban-vpn-service.exe",
+        "create_time": 1777806699.8250568,
+        "username": null
+      },
+      {
+        "pid": 5940,
+        "name": "vmnetdhcp.exe",
+        "create_time": 1777806699.8393495,
+        "username": null
+      },
+      {
+        "pid": 5988,
+        "name": "WavesSysSvc64.exe",
+        "create_time": 1777806699.8482592,
+        "username": null
+      },
+      {
+        "pid": 5996,
+        "name": "svchost.exe",
+        "create_time": 1777806706.8556404,
+        "username": null
+      },
+      {
+        "pid": 6000,
+        "name": "MsMpEng.exe",
+        "create_time": 1777806699.8529768,
+        "username": null
+      },
+      {
+        "pid": 6008,
+        "name": "WMIRegistrationService.exe",
+        "create_time": 1777806699.8577714,
+        "username": null
+      },
+      {
+        "pid": 6060,
+        "name": "GameInputRedistService.exe",
+        "create_time": 1777806699.8744364,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 6116,
+        "name": "svchost.exe",
+        "create_time": 1777806699.9299877,
+        "username": null
+      },
+      {
+        "pid": 6172,
+        "name": "IGCC.exe",
+        "create_time": 1777806779.3338985,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 6180,
+        "name": "jhi_service.exe",
+        "create_time": 1777806699.9791956,
+        "username": null
+      },
+      {
+        "pid": 6220,
+        "name": "Codex.exe",
+        "create_time": 1777867023.093772,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 6292,
+        "name": "Codex.exe",
+        "create_time": 1777867023.4295,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 6540,
+        "name": "svchost.exe",
+        "create_time": 1777867013.0502546,
+        "username": null
+      },
+      {
+        "pid": 6668,
+        "name": "chrome.exe",
+        "create_time": 1777867120.2126431,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 6676,
+        "name": "RuntimeBroker.exe",
+        "create_time": 1777807009.4312596,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 6744,
+        "name": "svchost.exe",
+        "create_time": 1777806700.447094,
+        "username": null
+      },
+      {
+        "pid": 6948,
+        "name": "codex.exe",
+        "create_time": 1777867026.415045,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 7124,
+        "name": "ApMsgFwd.exe",
+        "create_time": 1777806703.023792,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 7220,
+        "name": "Apoint.exe",
+        "create_time": 1777806701.5928996,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 7340,
+        "name": "svchost.exe",
+        "create_time": 1777807365.8973265,
+        "username": null
+      },
+      {
+        "pid": 7528,
+        "name": "svchost.exe",
+        "create_time": 1777806704.006609,
+        "username": null
+      },
+      {
+        "pid": 7592,
+        "name": "gamingservices.exe",
+        "create_time": 1777806702.1921115,
+        "username": null
+      },
+      {
+        "pid": 7604,
+        "name": "gamingservicesnet.exe",
+        "create_time": 1777806702.1980016,
+        "username": null
+      },
+      {
+        "pid": 7732,
+        "name": "sppsvc.exe",
+        "create_time": 1777867363.767774,
+        "username": null
+      },
+      {
+        "pid": 7824,
+        "name": "nvcontainer.exe",
+        "create_time": 1777806702.3122697,
+        "username": null
+      },
+      {
+        "pid": 7928,
+        "name": "nvcontainer.exe",
+        "create_time": 1777806702.4169333,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 7964,
+        "name": "nvcontainer.exe",
+        "create_time": 1777806702.4561849,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 7980,
+        "name": "svchost.exe",
+        "create_time": 1777806703.0404613,
+        "username": null
+      },
+      {
+        "pid": 8140,
+        "name": "svchost.exe",
+        "create_time": 1777806702.6719203,
+        "username": null
+      },
+      {
+        "pid": 8228,
+        "name": "AggregatorHost.exe",
+        "create_time": 1777806703.2215347,
+        "username": null
+      },
+      {
+        "pid": 8248,
+        "name": "svchost.exe",
+        "create_time": 1777806703.2376482,
+        "username": null
+      },
+      {
+        "pid": 8596,
+        "name": "sihost.exe",
+        "create_time": 1777806703.4948964,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 8696,
+        "name": "svchost.exe",
+        "create_time": 1777806703.5672023,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 8712,
+        "name": "powershell.exe",
+        "create_time": 1777867063.4169848,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 8756,
+        "name": "svchost.exe",
+        "create_time": 1777806703.621147,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 8796,
+        "name": "svchost.exe",
+        "create_time": 1777806931.5327375,
+        "username": null
+      },
+      {
+        "pid": 8800,
+        "name": "NVIDIA Overlay.exe",
+        "create_time": 1777806708.7785058,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 8816,
+        "name": "FCDBLog.exe",
+        "create_time": 1777806704.3391669,
+        "username": null
+      },
+      {
+        "pid": 8900,
+        "name": "svchost.exe",
+        "create_time": 1777806703.7319183,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 8964,
+        "name": "svchost.exe",
+        "create_time": 1777806703.8589447,
+        "username": null
+      },
+      {
+        "pid": 8984,
+        "name": "svchost.exe",
+        "create_time": 1777806931.5673113,
+        "username": null
+      },
+      {
+        "pid": 9036,
+        "name": "igfxEM.exe",
+        "create_time": 1777806703.9168055,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 9060,
+        "name": "WidgetService.exe",
+        "create_time": 1777806708.4611197,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 9076,
+        "name": "taskhostw.exe",
+        "create_time": 1777806703.932212,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 9096,
+        "name": "WindowsTerminal.exe",
+        "create_time": 1777867089.0858345,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 9212,
+        "name": "OpenConsole.exe",
+        "create_time": 1777867088.944789,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 9296,
+        "name": "ApRemote.exe",
+        "create_time": 1777806704.5032644,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 9312,
+        "name": "hidfind.exe",
+        "create_time": 1777806704.515298,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 9432,
+        "name": "chrome.exe",
+        "create_time": 1777867119.3103085,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 9444,
+        "name": "explorer.exe",
+        "create_time": 1777806704.826415,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 9460,
+        "name": "FortiTray.exe",
+        "create_time": 1777806705.696582,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 9504,
+        "name": "ApntEx.exe",
+        "create_time": 1777806704.8774307,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 9576,
+        "name": "FortiSSLVPNdaemon.exe",
+        "create_time": 1777806705.728821,
+        "username": null
+      },
+      {
+        "pid": 9592,
+        "name": "FortiVPN.exe",
+        "create_time": 1777806705.763126,
+        "username": null
+      },
+      {
+        "pid": 9596,
+        "name": "FortiSettings.exe",
+        "create_time": 1777806705.756582,
+        "username": null
+      },
+      {
+        "pid": 9636,
+        "name": "svchost.exe",
+        "create_time": 1777806705.118332,
+        "username": null
+      },
+      {
+        "pid": 9712,
+        "name": "RuntimeBroker.exe",
+        "create_time": 1777806780.3715155,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 9792,
+        "name": "conhost.exe",
+        "create_time": 1777806705.234658,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 9820,
+        "name": "svchost.exe",
+        "create_time": 1777806705.2809613,
+        "username": null
+      },
+      {
+        "pid": 9900,
+        "name": "svchost.exe",
+        "create_time": 1777867362.155511,
+        "username": null
+      },
+      {
+        "pid": 10060,
+        "name": "svchost.exe",
+        "create_time": 1777806705.480337,
+        "username": null
+      },
+      {
+        "pid": 10108,
+        "name": "SpotifyLauncher.exe",
+        "create_time": 1777806722.9108155,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 10168,
+        "name": "svchost.exe",
+        "create_time": 1777806930.500488,
+        "username": null
+      },
+      {
+        "pid": 10204,
+        "name": "svchost.exe",
+        "create_time": 1777806705.6432688,
+        "username": null
+      },
+      {
+        "pid": 10560,
+        "name": "chrome.exe",
+        "create_time": 1777867120.33166,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 10888,
+        "name": "nvsphelper64.exe",
+        "create_time": 1777806706.2510178,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 10900,
+        "name": "svchost.exe",
+        "create_time": 1777806706.2609053,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 10912,
+        "name": "NVIDIA Overlay.exe",
+        "create_time": 1777806706.2619407,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 10972,
+        "name": "svchost.exe",
+        "create_time": 1777806706.323501,
+        "username": null
+      },
+      {
+        "pid": 11104,
+        "name": "svchost.exe",
+        "create_time": 1777806706.4683795,
+        "username": null
+      },
+      {
+        "pid": 11196,
+        "name": "UserOOBEBroker.exe",
+        "create_time": 1777806708.5099225,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 11380,
+        "name": "svchost.exe",
+        "create_time": 1777867003.18368,
+        "username": null
+      },
+      {
+        "pid": 11760,
+        "name": "SearchHost.exe",
+        "create_time": 1777806707.487798,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 11792,
+        "name": "StartMenuExperienceHost.exe",
+        "create_time": 1777806707.5056808,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 11924,
+        "name": "RuntimeBroker.exe",
+        "create_time": 1777806707.6718383,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 11972,
+        "name": "Codex.exe",
+        "create_time": 1777867026.693408,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 11976,
+        "name": "RuntimeBroker.exe",
+        "create_time": 1777806707.7742672,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 12044,
+        "name": "Widgets.exe",
+        "create_time": 1777806707.9083762,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 12128,
+        "name": "svchost.exe",
+        "create_time": 1777806708.0727043,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 12152,
+        "name": "conhost.exe",
+        "create_time": 1777867026.4221003,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 12296,
+        "name": "NVIDIA Overlay.exe",
+        "create_time": 1777806708.791724,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 12372,
+        "name": "NVIDIA Overlay.exe",
+        "create_time": 1777806708.9849634,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 12476,
+        "name": "svchost.exe",
+        "create_time": 1777806781.6361475,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 12680,
+        "name": "svchost.exe",
+        "create_time": 1777806823.7534125,
+        "username": null
+      },
+      {
+        "pid": 12896,
+        "name": "NVIDIA Overlay.exe",
+        "create_time": 1777806709.517511,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 12976,
+        "name": "ctfmon.exe",
+        "create_time": 1777806710.1419482,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 13036,
+        "name": "chrome.exe",
+        "create_time": 1777867119.8669052,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 13244,
+        "name": "Codex.exe",
+        "create_time": 1777867021.6957457,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 13308,
+        "name": "crashpad_handler.exe",
+        "create_time": 1777806723.2196996,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 13392,
+        "name": "dllhost.exe",
+        "create_time": 1777806710.6443362,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 13408,
+        "name": "LockApp.exe",
+        "create_time": 1777806710.6529508,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 13512,
+        "name": "RuntimeBroker.exe",
+        "create_time": 1777806710.8536513,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 14064,
+        "name": "svchost.exe",
+        "create_time": 1777806711.5173998,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 14140,
+        "name": "SystemSettingsBroker.exe",
+        "create_time": 1777807009.7054505,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 14464,
+        "name": "audiodg.exe",
+        "create_time": 1777867014.0104058,
+        "username": null
+      },
+      {
+        "pid": 14504,
+        "name": "svchost.exe",
+        "create_time": 1777867145.384076,
+        "username": null
+      },
+      {
+        "pid": 14700,
+        "name": "nvfvsdksvc_x64.exe",
+        "create_time": 1777806713.8820307,
+        "username": null
+      },
+      {
+        "pid": 14712,
+        "name": "BraveUpdate.exe",
+        "create_time": 1777867361.5144448,
+        "username": null
+      },
+      {
+        "pid": 14740,
+        "name": "SecurityHealthService.exe",
+        "create_time": 1777807928.2852135,
+        "username": null
+      },
+      {
+        "pid": 14756,
+        "name": "FvContainer.System.exe",
+        "create_time": 1777806714.065276,
+        "username": null
+      },
+      {
+        "pid": 14764,
+        "name": "node_repl.exe",
+        "create_time": 1777867048.4110863,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 14788,
+        "name": "FvContainer.exe",
+        "create_time": 1777806714.1146977,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 14832,
+        "name": "PresentMon_x64.exe",
+        "create_time": 1777806714.1998684,
+        "username": null
+      },
+      {
+        "pid": 14868,
+        "name": "nvrla.exe",
+        "create_time": 1777806714.2586842,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 15064,
+        "name": "BraveCrashHandler.exe",
+        "create_time": 1777806714.5771644,
+        "username": null
+      },
+      {
+        "pid": 15072,
+        "name": "BraveCrashHandler64.exe",
+        "create_time": 1777806714.5957282,
+        "username": null
+      },
+      {
+        "pid": 15108,
+        "name": "svchost.exe",
+        "create_time": 1777806714.691193,
+        "username": null
+      },
+      {
+        "pid": 15352,
+        "name": "SearchIndexer.exe",
+        "create_time": 1777806715.1534035,
+        "username": null
+      },
+      {
+        "pid": 15364,
+        "name": "WhatsApp.Root.exe",
+        "create_time": 1777807441.4260013,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 15424,
+        "name": "TextInputHost.exe",
+        "create_time": 1777806717.3604004,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 15432,
+        "name": "RuntimeBroker.exe",
+        "create_time": 1777807447.1642816,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 15648,
+        "name": "NisSrv.exe",
+        "create_time": 1777806721.0797973,
+        "username": null
+      },
+      {
+        "pid": 15896,
+        "name": "TiWorker.exe",
+        "create_time": 1777867375.9142172,
+        "username": null
+      },
+      {
+        "pid": 15960,
+        "name": "svchost.exe",
+        "create_time": 1777806723.6446688,
+        "username": null
+      },
+      {
+        "pid": 16000,
+        "name": "RuntimeBroker.exe",
+        "create_time": 1777867361.845294,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 16352,
+        "name": "chrome.exe",
+        "create_time": 1777867125.1377745,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 16504,
+        "name": "svchost.exe",
+        "create_time": 1777867361.5608296,
+        "username": null
+      },
+      {
+        "pid": 16520,
+        "name": "conhost.exe",
+        "create_time": 1777867088.904817,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 17024,
+        "name": "chrome.exe",
+        "create_time": 1777867119.502739,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 17028,
+        "name": "python.exe",
+        "create_time": 1777867089.804369,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 17072,
+        "name": "PhoneExperienceHost.exe",
+        "create_time": 1777867143.6054404,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 17096,
+        "name": "chrome.exe",
+        "create_time": 1777867120.2130587,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 17328,
+        "name": "WmiPrvSE.exe",
+        "create_time": 1777867361.852954,
+        "username": null
+      },
+      {
+        "pid": 17344,
+        "name": "chrome.exe",
+        "create_time": 1777867119.8638265,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      },
+      {
+        "pid": 17364,
+        "name": "svchost.exe",
+        "create_time": 1777867064.7024877,
+        "username": null
+      }
+    ],
+    "explorer_sessions": [
+      {
+        "pid": 9444,
+        "name": "explorer.exe",
+        "create_time": 1777806704.826415,
+        "username": "DESKTOP-KRCN3RJ\\Ibrahim Khan"
+      }
+    ],
+    "warnings": []
+  },
+  "image_summary": null,
+  "user_artifact_roots": [],
+  "encrypted_files": [
+    {
+      "path": "D:\\8th SEMESTER\\DF\\PROJECT\\demo\\RealEfsDataset\\Users\\employee1\\Documents\\EfsConfirmed\\executive_merger_strategy.txt",
+      "size": 83,
+      "created": "2026-04-22T16:50:41.638764",
+      "modified": "2026-04-22T16:50:41.638764",
+      "efs_status": "confirmed",
+      "efs_detected_by": "cipher_confirmation, windows_encrypted_attribute",
+      "algorithm": "AES",
+      "key_length": "256",
+      "decrypt_users": "DESKTOP-KRCN3RJ\\Ibrahim Khan [Ibrahim Khan(Ibrahim Khan@DESKTOP-KRCN3RJ)]",
+      "decrypt_thumbprints": "924C 67DC 16CA 5246 8288 BE8E 55F5 32BB BB98 91CA",
+      "source": "D:\\8th SEMESTER\\DF\\PROJECT\\demo\\RealEfsDataset"
+    },
+    {
+      "path": "D:\\8th SEMESTER\\DF\\PROJECT\\demo\\RealEfsDataset\\Users\\employee1\\Documents\\EfsConfirmed\\payroll_adjustments_2026.csv",
+      "size": 47,
+      "created": "2026-04-22T16:50:41.638764",
+      "modified": "2026-04-22T16:50:41.638764",
+      "efs_status": "confirmed",
+      "efs_detected_by": "cipher_confirmation, windows_encrypted_attribute",
+      "algorithm": "AES",
+      "key_length": "256",
+      "decrypt_users": "DESKTOP-KRCN3RJ\\Ibrahim Khan [Ibrahim Khan(Ibrahim Khan@DESKTOP-KRCN3RJ)]",
+      "decrypt_thumbprints": "924C 67DC 16CA 5246 8288 BE8E 55F5 32BB BB98 91CA",
+      "source": "D:\\8th SEMESTER\\DF\\PROJECT\\demo\\RealEfsDataset"
+    }
+  ],
+  "certificates": [],
+  "registry": [
+    {
+      "hive": "HKCU",
+      "key_path": "Software\\\\Microsoft\\\\Windows NT\\\\CurrentVersion\\\\EFS",
+      "value_name": "Placeholder",
+      "value": "Use winreg/python-registry on a Windows host during live execution.",
+      "last_written": "2026-05-04T04:03:18.717997",
+      "source": "live_registry_placeholder"
+    }
+  ],
+  "deleted_registry_recovery": {
+    "status": "best-effort",
+    "notes": "Deleted registry recovery usually requires hive slack parsing, transaction logs, or specialized carving. The project architecture leaves a plug-in point for this advanced feature."
+  },
+  "timeline": [
+    {
+      "timestamp": "2026-04-22T16:50:41.638764",
+      "artifact_type": "encrypted_file",
+      "description": "Potential EFS file: D:\\8th SEMESTER\\DF\\PROJECT\\demo\\RealEfsDataset\\Users\\employee1\\Documents\\EfsConfirmed\\executive_merger_strategy.txt",
+      "source": "D:\\8th SEMESTER\\DF\\PROJECT\\demo\\RealEfsDataset"
+    },
+    {
+      "timestamp": "2026-04-22T16:50:41.638764",
+      "artifact_type": "encrypted_file",
+      "description": "Potential EFS file: D:\\8th SEMESTER\\DF\\PROJECT\\demo\\RealEfsDataset\\Users\\employee1\\Documents\\EfsConfirmed\\payroll_adjustments_2026.csv",
+      "source": "D:\\8th SEMESTER\\DF\\PROJECT\\demo\\RealEfsDataset"
+    },
+    {
+      "timestamp": "2026-05-04T04:03:18.717997",
+      "artifact_type": "registry",
+      "description": "Registry value Placeholder at Software\\\\Microsoft\\\\Windows NT\\\\CurrentVersion\\\\EFS",
+      "source": "live_registry_placeholder"
+    }
+  ],
+  "alerts": [
+    "Sensitive business data candidate detected: D:\\8th SEMESTER\\DF\\PROJECT\\demo\\RealEfsDataset\\Users\\employee1\\Documents\\EfsConfirmed\\executive_merger_strategy.txt",
+    "Sensitive business data candidate detected: D:\\8th SEMESTER\\DF\\PROJECT\\demo\\RealEfsDataset\\Users\\employee1\\Documents\\EfsConfirmed\\payroll_adjustments_2026.csv"
+  ]
+}

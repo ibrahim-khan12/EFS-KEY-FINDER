@@ -1,0 +1,2 @@
+hive,key_path,value_name,value,last_written,source
+HKCU,Software\\Microsoft\\Windows NT\\CurrentVersion\\EFS,Placeholder,Use winreg/python-registry on a Windows host during live execution.,2026-05-04T04:03:18.717997,live_registry_placeholder
